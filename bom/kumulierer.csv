@@ -1,74 +1,124 @@
-"Date:","25.12.2022 21:39:53"
+"Source:","C:\Users\nixdo\Documents\E-Technik\kumulierer\kicad\kumulierer.kicad_sch"
+"Date:","07.01.2023 17:58:50"
+"Tool:","Eeschema (6.0.6)"
+"Generator:","C:\Program Files\KiCad\6.0\bin\scripting\plugins/bom_csv_grouped_by_value.py"
+"Component Count:","74"
 
-"Tool:","Eeschema (6.0.0)"
+"Individual Components:"
 
-"Component Count:","69"
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","Mouser Part Nr."
+"","","BT401","18650-35E","Device:Battery_Cell","Parts_Library:1043_Battery_holder_18650","https://www.mouser.de/datasheet/2/215/1043-745411.pdf","534-1043 "
+"","","C101","100n","Device:C_Small","Capacitor_SMD:C_0603_1608Metric","https://www.mouser.de/datasheet/2/585/MLCC_Automotive-1837966.pdf","187-CL10B104KO8WPNC "
+"","","C102","10u","Device:C_Small","Capacitor_SMD:C_0805_2012Metric","https://www.mouser.de/datasheet/2/585/MLCC-1837944.pdf","187-CL21A106KOQNNNE "
+"","","C103","10u","Device:C_Small","Capacitor_SMD:C_0805_2012Metric","https://www.mouser.de/datasheet/2/585/MLCC-1837944.pdf","187-CL21A106KOQNNNE "
+"","","C201","100n","Device:C_Small","Capacitor_SMD:C_0603_1608Metric","https://www.mouser.de/datasheet/2/585/MLCC_Automotive-1837966.pdf","187-CL10B104KO8WPNC "
+"","","C202","10u","Device:C_Small","Capacitor_SMD:C_0805_2012Metric","https://www.mouser.de/datasheet/2/585/MLCC-1837944.pdf","187-CL21A106KOQNNNE "
+"","","C203","10u","Device:C_Small","Capacitor_SMD:C_0805_2012Metric","https://www.mouser.de/datasheet/2/585/MLCC-1837944.pdf","187-CL21A106KOQNNNE "
+"","","C301","10u","Device:C_Small","Capacitor_SMD:C_0805_2012Metric","https://www.mouser.de/datasheet/2/585/MLCC-1837944.pdf","187-CL21A106KOQNNNE "
+"","","C302","10u","Device:C_Small","Capacitor_SMD:C_0805_2012Metric","https://www.mouser.de/datasheet/2/585/MLCC-1837944.pdf","187-CL21A106KOQNNNE "
+"","","C303","10u","Device:C_Small","Capacitor_SMD:C_0805_2012Metric","https://www.mouser.de/datasheet/2/585/MLCC-1837944.pdf","187-CL21A106KOQNNNE "
+"","","C304","10u","Device:C_Small","Capacitor_SMD:C_0805_2012Metric","https://www.mouser.de/datasheet/2/585/MLCC-1837944.pdf","187-CL21A106KOQNNNE "
+"","","C305","100n","Device:C_Small","Capacitor_SMD:C_0603_1608Metric","https://www.mouser.de/datasheet/2/585/MLCC_Automotive-1837966.pdf","187-CL10B104KO8WPNC "
+"","","C306","10u","Device:C_Small","Capacitor_SMD:C_0805_2012Metric","https://www.mouser.de/datasheet/2/585/MLCC-1837944.pdf","187-CL21A106KOQNNNE "
+"","","C307","1n","Device:C_Small","Capacitor_SMD:C_0603_1608Metric","https://www.mouser.de/datasheet/2/585/MLCC-1837944.pdf","187-CL10C102JB8NNND "
+"","","C308","10u","Device:C_Small","Capacitor_SMD:C_0805_2012Metric","https://www.mouser.de/datasheet/2/585/MLCC-1837944.pdf","187-CL21A106KOQNNNE "
+"","","C309","10u","Device:C_Small","Capacitor_SMD:C_0805_2012Metric","https://www.mouser.de/datasheet/2/585/MLCC-1837944.pdf","187-CL21A106KOQNNNE "
+"","","C310","10u","Device:C_Small","Capacitor_SMD:C_0805_2012Metric","https://www.mouser.de/datasheet/2/585/MLCC-1837944.pdf","187-CL21A106KOQNNNE "
+"","","C311","10u","Device:C_Small","Capacitor_SMD:C_0805_2012Metric","https://www.mouser.de/datasheet/2/585/MLCC-1837944.pdf","187-CL21A106KOQNNNE "
+"","","C401","100n","Device:C_Small","Capacitor_SMD:C_0603_1608Metric","https://www.mouser.de/datasheet/2/585/MLCC_Automotive-1837966.pdf","187-CL10B104KO8WPNC "
+"","","D101","SMA 5V","Device:D_Zener_Small","Diode_SMD:D_SMA","https://www.diodes.com/assets/Datasheets/ds18015.pdf","621-SMAZ5V6-F "
+"","","D102","ACDBMS240-HF ","Device:D_Schottky_Small","Diode_SMD:D_SOD-123F","https://www.mouser.de/datasheet/2/80/12030_20190322133442-2933606.pdf","750-ACDBMS240-HF "
+"","","D201","RED","Device:LED_Small","LED_SMD:LED_0603_1608Metric","https://www.mouser.de/datasheet/2/445/150060RS75000-1715052.pdf","710-150060RS75000 "
+"","","D202","RED","Device:LED_Small","LED_SMD:LED_0603_1608Metric","https://www.mouser.de/datasheet/2/445/150060RS75000-1715052.pdf","710-150060RS75000 "
+"","","D203","RED","Device:LED_Small","LED_SMD:LED_0603_1608Metric","https://www.mouser.de/datasheet/2/445/150060RS75000-1715052.pdf","710-150060RS75000 "
+"","","D301","ACDBMS240-HF ","Device:D_Schottky_Small","Diode_SMD:D_SOD-123F","https://www.mouser.de/datasheet/2/80/12030_20190322133442-2933606.pdf","750-ACDBMS240-HF "
+"","","F101","500mA 1206","Device:Polyfuse_Small","Fuse:Fuse_1206_3216Metric","https://www.mouser.de/datasheet/2/447/SMD1206_1-1954982.pdf","603-SMD1206B050TF/15 "
+"","","F401","6A","Device:Fuse_Small","Fuse:Fuse_0805_2012Metric","https://www.mouser.de/datasheet/2/643/ds-CP-c2f-series-1291054.pdf","530-0686F6000-01 "
+"","","FB101","220","Device:FerriteBead_Small","Inductor_SMD:L_0603_1608Metric","https://www.mouser.de/datasheet/2/54/mh-777565.pdf","652-MH1608-221Y "
+"","","FID101","Fiducial","Mechanical:Fiducial","Fiducial:Fiducial_1mm_Mask2mm","~",""
+"","","FID102","Fiducial","Mechanical:Fiducial","Fiducial:Fiducial_1mm_Mask2mm","~",""
+"","","H101","M2","Mechanical:MountingHole_Pad","MountingHole:MountingHole_2.2mm_M2_Pad","~",""
+"","","H102","M2","Mechanical:MountingHole_Pad","MountingHole:MountingHole_2.2mm_M2_Pad","~",""
+"","","H103","M2","Mechanical:MountingHole_Pad","MountingHole:MountingHole_2.2mm_M2_Pad","~",""
+"","","H104","M2","Mechanical:MountingHole_Pad","MountingHole:MountingHole_2.2mm_M2_Pad","~",""
+"","","J101","USB4125-GF-A ","Connector:USB_C_Receptacle_USB2.0","Parts_Library:USB4125GFA","https://www.mouser.de/datasheet/2/837/USB4125-2888141.pdf","640-USB4125-GF-A "
+"","","J102","6-440054-2 ","Connector_Generic:Conn_01x02","Parts_Library:6-440054-2 2 Pin Header","https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=440054&DocType=Customer+Drawing&DocLang=English&PartCntxt=6-440054-2&DocFormat=pdf","6-440054-2 "
+"","","L301","470nH","Device:L_Small","Parts_Library:IND_0806_2016","https://www.mouser.de/datasheet/2/396/wound10_e-1396630.pdf","963-MAKK2016TR47M "
+"","","L302","3.3uH","Device:L_Small","Inductor_SMD:L_TDK_NLV32_3.2x2.5mm","https://www.mouser.de/datasheet/2/54/SRP3212A-3011944.pdf","652-SRP3212A-3R3M "
+"","","L303","3.3uH","Device:L_Small","Inductor_SMD:L_TDK_NLV32_3.2x2.5mm","https://www.mouser.de/datasheet/2/54/SRP3212A-3011944.pdf","652-SRP3212A-3R3M "
+"","","L304","470nH","Device:L_Small","Parts_Library:IND_0806_2016","https://www.mouser.de/datasheet/2/396/wound10_e-1396630.pdf","963-MAKK2016TR47M "
+"","","Q401","CSD17313Q2","Transistor_FET:CSD17313Q2","Package_SON:Texas_DQK","http://www.ti.com/lit/ds/symlink/csd17313q2.pdf","595-CSD17313Q2 "
+"","","Q402","CSD17313Q2","Transistor_FET:CSD17313Q2","Package_SON:Texas_DQK","http://www.ti.com/lit/ds/symlink/csd17313q2.pdf","595-CSD17313Q2 "
+"","","R102","5k1","Device:R_Small","Resistor_SMD:R_0603_1608Metric","https://www.mouser.de/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf","603-RC0603JR-075K1L"
+"","","R103","5k1","Device:R_Small","Resistor_SMD:R_0603_1608Metric","https://www.mouser.de/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf","603-RC0603JR-075K1L"
+"","","R201","0","Device:R_Small","Resistor_SMD:R_0603_1608Metric","https://www.mouser.de/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf","603-RC0603JR-070RL "
+"","","R202","0","Device:R_Small","Resistor_SMD:R_0603_1608Metric","https://www.mouser.de/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf","603-RC0603JR-070RL "
+"","","R203","330k","Device:R_Small","Resistor_SMD:R_0603_1608Metric","https://www.mouser.de/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf","603-RC0603FR-13330KL "
+"","","R204","110k","Device:R_Small","Resistor_SMD:R_0603_1608Metric","https://www.mouser.de/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf","603-RC0603JR-13110KL "
+"","","R205","1k","Device:R_Small","Resistor_SMD:R_0603_1608Metric","https://www.mouser.de/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf","603-RC0603JR-071KL "
+"","","R206","1k","Device:R_Small","Resistor_SMD:R_0603_1608Metric","https://www.mouser.de/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf","603-RC0603JR-071KL "
+"","","R207","1k","Device:R_Small","Resistor_SMD:R_0603_1608Metric","https://www.mouser.de/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf","603-RC0603JR-071KL "
+"","","R208","1k","Device:R_Small","Resistor_SMD:R_0603_1608Metric","https://www.mouser.de/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf","603-RC0603JR-071KL "
+"","","R209","1k","Device:R_Small","Resistor_SMD:R_0603_1608Metric","https://www.mouser.de/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf","603-RC0603JR-071KL "
+"","","R210","2k2","Device:R_Small","Resistor_SMD:R_0603_1608Metric","https://www.mouser.de/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf","603-RC0603FR-072K2L "
+"","","R211","22k","Device:R_Small","Resistor_SMD:R_0603_1608Metric","https://www.mouser.de/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf","603-RC0603JR-0722KL "
+"","","R212","1k","Device:R_Small","Resistor_SMD:R_0603_1608Metric","https://www.mouser.de/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf","603-RC0603JR-071KL "
+"","","R213","1k","Device:R_Small","Resistor_SMD:R_0603_1608Metric","https://www.mouser.de/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf","603-RC0603JR-071KL "
+"","","R214","10k","Device:R_Small","Resistor_SMD:R_0603_1608Metric","https://www.mouser.de/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf","603-RC0603FR-0710KL "
+"","","R301","1","Device:R_Small","Resistor_SMD:R_0603_1608Metric","https://www.mouser.de/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf","603-RC0603JR-071RL "
+"","","R302","10k","Device:R_Small","Resistor_SMD:R_0603_1608Metric","https://www.mouser.de/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf","603-RC0603FR-0710KL "
+"","","R303","30k","Device:R_Small","Resistor_SMD:R_0603_1608Metric","https://www.mouser.de/datasheet/2/315/AOA0000C304-1149620.pdf","667-ERJ-3EKF3002V "
+"","","R304","10k","Device:R_Small","Resistor_SMD:R_0603_1608Metric","https://www.mouser.de/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf","603-RC0603FR-0710KL "
+"","","R305","1","Device:R_Small","Resistor_SMD:R_0603_1608Metric","https://www.mouser.de/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf","603-RC0603JR-071RL "
+"","","R306","1M","Device:R_Small","Resistor_SMD:R_0603_1608Metric","https://www.mouser.de/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf","603-RC0603FR-071ML "
+"","","R401","330","Device:R_Small","Resistor_SMD:R_0603_1608Metric","https://www.mouser.de/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf","603-RC0603FR-13330RL "
+"","","R402","2k2","Device:R_Small","Resistor_SMD:R_0603_1608Metric","https://www.mouser.de/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf","603-RC0603FR-072K2L "
+"","","R403","0","Device:R_Small","Resistor_SMD:R_0603_1608Metric","https://www.mouser.de/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf","603-RC0603JR-070RL "
+"","","R404","5.1M","Device:R_Small","Resistor_SMD:R_0603_1608Metric","https://www.mouser.de/datasheet/2/447/PYu_AC_51_RoHS_L_9-3005297.pdf","603-AC0603FR-075M1L"
+"","","R405","5.1M","Device:R_Small","Resistor_SMD:R_0603_1608Metric","https://www.mouser.de/datasheet/2/447/PYu_AC_51_RoHS_L_9-3005297.pdf","603-AC0603FR-075M1L"
+"","","SW101","DS04-254-2-02BK-SMT ","Switch:SW_DIP_x02","Footprints:SW_DS04-254-2-02BK-SMT","https://www.mouser.de/datasheet/2/670/ds04_254_smt-1777718.pdf","490-DS04254202BK-SMT "
+"","","TH201","10k","Device:Thermistor_NTC","Parts_Library:NRL1104J3380B1F","https://www.eaton.com/content/dam/eaton/products/electronic-components/resources/data-sheet/eaton-nrl-epoxy-sealed-radial-lead-ntc-thermistor-data-sheet-elx1108-en.pdf","504-NRL1104J3380B1F "
+"","","U201","MCP73871-2CC","Battery_Management:MCP73871-2CC","Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm","http://www.mouser.com/ds/2/268/22090a-52174.pdf",""
+"","","U301","LMR62421XMF","Regulator_Switching:LMR62421XMF","Package_TO_SOT_SMD:SOT-23-5","http://www.ti.com/lit/ds/symlink/lmr62421.pdf",""
+"","","U401","BQ29717","Battery_Management:BQ297xy","Package_SON:WSON-6_1.5x1.5mm_P0.5mm","http://www.ti.com/lit/ds/symlink/bq2970.pdf","595-BQ29717DSER "
 
-"Ref","Qnty","Value","Cmp name","Footprint","Description","Vendor"
 
-"BT401, ","1","18650-35E","Battery_Cell","Parts_Library:1043_Battery_holder_18650","Single-cell battery",""
 
-"C101, C201, C305, C401, ","4","100n","C_Small","Capacitor_SMD:C_0603_1608Metric","Unpolarized capacitor, small symbol",""
+"Collated Components:"
 
-"C102, C103, C202, C203, C301, C302, C303, C304, C306, C308, C309, C310, C311, ","13","10u","C_Small","Capacitor_SMD:C_0805_2012Metric","Unpolarized capacitor, small symbol",""
-
-"C307, ","1","2n2","C_Small","Capacitor_SMD:C_0603_1608Metric","Unpolarized capacitor, small symbol",""
-
-"D101, ","1","SMA 5V","D_Zener_Small","Diode_SMD:D_SMA","Zener diode, small symbol",""
-
-"D102, D301, ","2","ACDBMS240-HF ","D_Schottky_Small","Diode_SMD:D_SOD-123F","Schottky diode, small symbol",""
-
-"D201, D202, D203, ","3","RED","LED_Small","LED_SMD:LED_0603_1608Metric","Light emitting diode, small symbol",""
-
-"F401, ","1","6A","Fuse_Small","Fuse:Fuse_0805_2012Metric","Fuse, small symbol",""
-
-"FB101, ","1","220","FerriteBead_Small","Inductor_SMD:L_0603_1608Metric","Ferrite bead, small symbol",""
-
-"FID101, FID102, ","2","Fiducial","Fiducial","Fiducial:Fiducial_1mm_Mask2mm","Fiducial Marker",""
-
-"H101, H102, H103, H104, ","4","M2","MountingHole_Pad","MountingHole:MountingHole_2.2mm_M2_Pad","Mounting Hole with connection",""
-
-"J101, ","1","USB4125-GF-A ","USB_C_Receptacle_USB2.0","Parts_Library:USB4125GFA","USB 2.0-only Type-C Receptacle connector",""
-
-"J102, ","1","6-440054-2 ","Conn_01x02","Parts_Library:6-440054-2 2 Pin Header","Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",""
-
-"L301, L304, ","2","470nH","L_Small","Parts_Library:IND_0806_2016","Inductor, small symbol",""
-
-"L302, L303, ","2","3.3uH","L_Small","Inductor_SMD:L_TDK_NLV32_3.2x2.5mm","Inductor, small symbol",""
-
-"Q401, Q402, ","2","CSD17313Q2","CSD17313Q2","Package_SON:Texas_DQK","5A Id, 30V Vds, NexFET N-Channel Power MOSFET, 24mOhm Ron, SON-6",""
-
-"R102, R103, ","2","5k1","R_Small","Resistor_SMD:R_0603_1608Metric","Resistor, small symbol",""
-
-"R201, R202, R403, ","3","0","R_Small","Resistor_SMD:R_0603_1608Metric","Resistor, small symbol",""
-
-"R203, ","1","330k","R_Small","Resistor_SMD:R_0603_1608Metric","Resistor, small symbol",""
-
-"R204, ","1","110k","R_Small","Resistor_SMD:R_0603_1608Metric","Resistor, small symbol",""
-
-"R205, R206, R207, R208, R209, R212, ","6","1k","R_Small","Resistor_SMD:R_0603_1608Metric","Resistor, small symbol",""
-
-"R210, R402, ","2","2k2","R_Small","Resistor_SMD:R_0603_1608Metric","Resistor, small symbol",""
-
-"R211, ","1","22k","R_Small","Resistor_SMD:R_0603_1608Metric","Resistor, small symbol",""
-
-"R301, R305, ","2",".47","R_Small","Resistor_SMD:R_0603_1608Metric","Resistor, small symbol",""
-
-"R302, ","1","100k","R_Small","Resistor_SMD:R_0603_1608Metric","Resistor, small symbol",""
-
-"R303, ","1","16k2","R_Small","Resistor_SMD:R_0603_1608Metric","Resistor, small symbol",""
-
-"R304, ","1","10k","R_Small","Resistor_SMD:R_0603_1608Metric","Resistor, small symbol",""
-
-"R401, ","1","330","R_Small","Resistor_SMD:R_0603_1608Metric","Resistor, small symbol",""
-
-"R404, R405, ","2","5M","R_Small","Resistor_SMD:R_0603_1608Metric","Resistor, small symbol",""
-
-"TH201, ","1","10k","Thermistor_NTC","Parts_Library:NRL1104J3380B1F","Temperature dependent resistor, negative temperature coefficient",""
-
-"U201, ","1","MCP73871-2CC","MCP73871-2CC","Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm","Single cell, Li-Ion/Li-Po charge management controller, 4.20V, 6h safety timer, 3.1V LBO threshold",""
-
-"U301, ","1","LMR62421XMF","LMR62421XMF","Package_TO_SOT_SMD:SOT-23-5","2.1A, 24Vout Boost/SEPIC Voltage Regulator, 1.6MHz Frequency, SOT-23-5",""
-
-"U401, ","1","BQ297xy","BQ297xy","Package_SON:WSON-6_1.5x1.5mm_P0.5mm","Voltage and Current Protection for Single-Cell Li-Ion and Li-Polymer Batteries",""
-
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","Mouser Part Nr."
+"1","1","BT401","18650-35E","Device:Battery_Cell","Parts_Library:1043_Battery_holder_18650","https://www.mouser.de/datasheet/2/215/1043-745411.pdf","534-1043 "
+"2","4","C101, C201, C305, C401","100n","Device:C_Small","Capacitor_SMD:C_0603_1608Metric","https://www.mouser.de/datasheet/2/585/MLCC_Automotive-1837966.pdf","187-CL10B104KO8WPNC "
+"3","13","C102, C103, C202, C203, C301, C302, C303, C304, C306, C308, C309, C310, C311","10u","Device:C_Small","Capacitor_SMD:C_0805_2012Metric","https://www.mouser.de/datasheet/2/585/MLCC-1837944.pdf","187-CL21A106KOQNNNE "
+"4","1","C307","1n","Device:C_Small","Capacitor_SMD:C_0603_1608Metric","https://www.mouser.de/datasheet/2/585/MLCC-1837944.pdf","187-CL10C102JB8NNND "
+"5","1","D101","SMA 5V","Device:D_Zener_Small","Diode_SMD:D_SMA","https://www.diodes.com/assets/Datasheets/ds18015.pdf","621-SMAZ5V6-F "
+"6","2","D102, D301","ACDBMS240-HF ","Device:D_Schottky_Small","Diode_SMD:D_SOD-123F","https://www.mouser.de/datasheet/2/80/12030_20190322133442-2933606.pdf","750-ACDBMS240-HF "
+"7","3","D201, D202, D203","RED","Device:LED_Small","LED_SMD:LED_0603_1608Metric","https://www.mouser.de/datasheet/2/445/150060RS75000-1715052.pdf","710-150060RS75000 "
+"8","1","F101","500mA 1206","Device:Polyfuse_Small","Fuse:Fuse_1206_3216Metric","https://www.mouser.de/datasheet/2/447/SMD1206_1-1954982.pdf","603-SMD1206B050TF/15 "
+"9","1","F401","6A","Device:Fuse_Small","Fuse:Fuse_0805_2012Metric","https://www.mouser.de/datasheet/2/643/ds-CP-c2f-series-1291054.pdf","530-0686F6000-01 "
+"10","1","FB101","220","Device:FerriteBead_Small","Inductor_SMD:L_0603_1608Metric","https://www.mouser.de/datasheet/2/54/mh-777565.pdf","652-MH1608-221Y "
+"11","2","FID101, FID102","Fiducial","Mechanical:Fiducial","Fiducial:Fiducial_1mm_Mask2mm","~",""
+"12","4","H101, H102, H103, H104","M2","Mechanical:MountingHole_Pad","MountingHole:MountingHole_2.2mm_M2_Pad","~",""
+"13","1","J101","USB4125-GF-A ","Connector:USB_C_Receptacle_USB2.0","Parts_Library:USB4125GFA","https://www.mouser.de/datasheet/2/837/USB4125-2888141.pdf","640-USB4125-GF-A "
+"14","1","J102","6-440054-2 ","Connector_Generic:Conn_01x02","Parts_Library:6-440054-2 2 Pin Header","https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=440054&DocType=Customer+Drawing&DocLang=English&PartCntxt=6-440054-2&DocFormat=pdf","6-440054-2 "
+"15","2","L301, L304","470nH","Device:L_Small","Parts_Library:IND_0806_2016","https://www.mouser.de/datasheet/2/396/wound10_e-1396630.pdf","963-MAKK2016TR47M "
+"16","2","L302, L303","3.3uH","Device:L_Small","Inductor_SMD:L_TDK_NLV32_3.2x2.5mm","https://www.mouser.de/datasheet/2/54/SRP3212A-3011944.pdf","652-SRP3212A-3R3M "
+"17","2","Q401, Q402","CSD17313Q2","Transistor_FET:CSD17313Q2","Package_SON:Texas_DQK","http://www.ti.com/lit/ds/symlink/csd17313q2.pdf","595-CSD17313Q2 "
+"18","2","R102, R103","5k1","Device:R_Small","Resistor_SMD:R_0603_1608Metric","https://www.mouser.de/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf","603-RC0603JR-075K1L"
+"19","3","R201, R202, R403","0","Device:R_Small","Resistor_SMD:R_0603_1608Metric","https://www.mouser.de/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf","603-RC0603JR-070RL "
+"20","1","R203","330k","Device:R_Small","Resistor_SMD:R_0603_1608Metric","https://www.mouser.de/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf","603-RC0603FR-13330KL "
+"21","1","R204","110k","Device:R_Small","Resistor_SMD:R_0603_1608Metric","https://www.mouser.de/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf","603-RC0603JR-13110KL "
+"22","7","R205, R206, R207, R208, R209, R212, R213","1k","Device:R_Small","Resistor_SMD:R_0603_1608Metric","https://www.mouser.de/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf","603-RC0603JR-071KL "
+"23","2","R210, R402","2k2","Device:R_Small","Resistor_SMD:R_0603_1608Metric","https://www.mouser.de/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf","603-RC0603FR-072K2L "
+"24","1","R211","22k","Device:R_Small","Resistor_SMD:R_0603_1608Metric","https://www.mouser.de/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf","603-RC0603JR-0722KL "
+"25","3","R214, R302, R304","10k","Device:R_Small","Resistor_SMD:R_0603_1608Metric","https://www.mouser.de/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf","603-RC0603FR-0710KL "
+"26","2","R301, R305","1","Device:R_Small","Resistor_SMD:R_0603_1608Metric","https://www.mouser.de/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf","603-RC0603JR-071RL "
+"27","1","R303","30k","Device:R_Small","Resistor_SMD:R_0603_1608Metric","https://www.mouser.de/datasheet/2/315/AOA0000C304-1149620.pdf","667-ERJ-3EKF3002V "
+"28","1","R306","1M","Device:R_Small","Resistor_SMD:R_0603_1608Metric","https://www.mouser.de/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf","603-RC0603FR-071ML "
+"29","1","R401","330","Device:R_Small","Resistor_SMD:R_0603_1608Metric","https://www.mouser.de/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf","603-RC0603FR-13330RL "
+"30","2","R404, R405","5.1M","Device:R_Small","Resistor_SMD:R_0603_1608Metric","https://www.mouser.de/datasheet/2/447/PYu_AC_51_RoHS_L_9-3005297.pdf","603-AC0603FR-075M1L"
+"31","1","SW101","DS04-254-2-02BK-SMT ","Switch:SW_DIP_x02","Footprints:SW_DS04-254-2-02BK-SMT","https://www.mouser.de/datasheet/2/670/ds04_254_smt-1777718.pdf","490-DS04254202BK-SMT "
+"32","1","TH201","10k","Device:Thermistor_NTC","Parts_Library:NRL1104J3380B1F","https://www.eaton.com/content/dam/eaton/products/electronic-components/resources/data-sheet/eaton-nrl-epoxy-sealed-radial-lead-ntc-thermistor-data-sheet-elx1108-en.pdf","504-NRL1104J3380B1F "
+"33","1","U201","MCP73871-2CC","Battery_Management:MCP73871-2CC","Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm","http://www.mouser.com/ds/2/268/22090a-52174.pdf",""
+"34","1","U301","LMR62421XMF","Regulator_Switching:LMR62421XMF","Package_TO_SOT_SMD:SOT-23-5","http://www.ti.com/lit/ds/symlink/lmr62421.pdf",""
+"35","1","U401","BQ29717","Battery_Management:BQ297xy","Package_SON:WSON-6_1.5x1.5mm_P0.5mm","http://www.ti.com/lit/ds/symlink/bq2970.pdf","595-BQ29717DSER "
