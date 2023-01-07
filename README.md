@@ -8,3 +8,5 @@ Li-Ion battery charger with basic protection, usb-c input / 2-pin output &amp; p
 
 ## Links
 [Aisler Project](https://aisler.net/p/CNVPTRAD)
+
+[BOM](./bom/ibom.html)
